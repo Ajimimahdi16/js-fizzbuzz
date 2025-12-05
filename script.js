@@ -24,7 +24,7 @@ for (let i = 0; i <= 100; i++) {  //scrittura programmma con ripetizione fino a 
 // % serve per calcolare e indicare se il numero e multiplo di un altro numero
 // === serve per indicare che il valore a sinistra e uguale al valore a destra
 // && serve per indicare che devono essere vere entrambe le condizioni
-// i++ serve per indicare che il valore di i aumenta di 1 ogni ciclo
+
     
 
 
